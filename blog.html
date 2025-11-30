@@ -1,18 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>NextLeap - Blog</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/styles.css">
-  <script defer src="js/main.js"></script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Poppins:wght@600;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="css/styles.css" />
+  <script defer src="js/blog.js"></script>
 </head>
+
 <body>
 
-  <!-- HEADER / NAVBAR -->
+  <!-- NAVBAR -->
   <header class="navbar">
     <div class="container nav-container">
       <div class="logo">NextLeap</div>
@@ -26,37 +29,43 @@
           <li><a href="faqs.html">FAQs</a></li>
         </ul>
       </nav>
-      <div class="hamburger">
-        <span></span><span></span><span></span>
-      </div>
+      <div class="hamburger"><span></span><span></span><span></span></div>
     </div>
   </header>
 
   <!-- PAGE HEADER -->
   <section class="page-header">
     <div class="container">
-      <h1>NextLeap Blog</h1>
-      <p>Explore articles, guides, and insights to grow your skills and knowledge.</p>
+      <h1>Our Blog</h1>
+      <p>Discover tutorials, insights, and strategies to grow smarter and faster.</p>
     </div>
   </section>
 
-  <!-- FILTERS -->
-  <section class="section filters">
+  <!-- FILTER BAR -->
+  <section class="section blog-filters">
     <div class="container filter-container">
-      <input type="text" id="searchInput" placeholder="Search blog posts...">
-      <select id="categorySelect">
+      <input type="text" id="searchInput" placeholder="Search posts...">
+
+      <select id="categoryFilter">
         <option value="all">All Categories</option>
       </select>
-      <select id="tagSelect">
+
+      <select id="tagFilter">
         <option value="all">All Tags</option>
       </select>
     </div>
   </section>
 
   <!-- BLOG POSTS GRID -->
-  <section class="section blog-posts">
+  <section class="section blog-list">
     <div class="container">
       <div id="blog-container" class="grid"></div>
+    </div>
+  </section>
+
+  <!-- PAGINATION -->
+  <section class="pagination-section">
+    <div class="container">
       <div id="pagination" class="pagination"></div>
     </div>
   </section>
@@ -64,10 +73,12 @@
   <!-- FOOTER -->
   <footer class="footer">
     <div class="container footer-grid">
+
       <div class="footer-about">
         <div class="logo">NextLeap</div>
-        <p>Empowering your growth with high-quality digital products.</p>
+        <p>Empowering your growth with high-quality digital content.</p>
       </div>
+
       <div class="footer-nav">
         <h4>Navigate</h4>
         <ul>
@@ -78,6 +89,7 @@
           <li><a href="faqs.html">FAQs</a></li>
         </ul>
       </div>
+
       <div class="footer-legal">
         <h4>Legal</h4>
         <ul>
@@ -86,6 +98,7 @@
           <li><a href="cookies.html">Cookies</a></li>
         </ul>
       </div>
+
       <div class="footer-social">
         <h4>Follow Us</h4>
         <ul>
@@ -96,10 +109,11 @@
         </ul>
       </div>
     </div>
+
     <div class="footer-bottom">
       <p>© 2025 NextLeap. All rights reserved.</p>
     </div>
   </footer>
 
 </body>
-  </html>
+          </html>
