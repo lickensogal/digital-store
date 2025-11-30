@@ -1,1 +1,95 @@
+{
+  "categories": [
+    "Personal Development",
+    "Technology",
+    "Business",
+    "AI & Automation",
+    "Productivity",
+    "Marketing"
+  ],
 
+  "tags": [
+    "AI Tools",
+    "Web Development",
+    "Mindset",
+    "Productivity",
+    "Digital Marketing",
+    "Automation",
+    "Passive Income",
+    "Entrepreneurship",
+    "WordPress",
+    "ChatGPT"
+  ],
+
+  "posts": [
+    {
+      "id": 1,
+      "title": "5 AI Tools That Can Save You Hours Every Week",
+      "slug": "5-ai-tools-that-save-you-hours",
+      "category": "AI & Automation",
+      "tags": ["AI Tools", "Automation", "Productivity", "ChatGPT"],
+      "featured_image": "images/posts/ai-tools.jpg",
+      "excerpt": "AI is transforming the way we work. These five tools can save you hours every week and boost efficiency.",
+      "content": "<h1>5 AI Tools That Can Save You Hours Every Week</h1><p>In today's fast-paced world, AI tools make tasks faster and easier...</p><h2>1. ChatGPT</h2><p>Perfect for content generation, productivity and automation tasks...</p><h2>2. Notion AI</h2><p>A workspace tool that uses AI to organize workflows and automate planning...</p><h2>Conclusion</h2><p>These tools will help you work smarter, not harder.</p>",
+      "author": "NextLeap Editorial",
+      "date": "2025-01-12",
+      "read_time": "4 min"
+    },
+
+    {
+      "id": 2,
+      "title": "How to Build a WordPress Website in 2025 (Step-by-Step)",
+      "slug": "wordpress-setup-2025",
+      "category": "Technology",
+      "tags": ["WordPress", "Web Development", "Entrepreneurship"],
+      "featured_image": "images/posts/wordpress-2025.jpg",
+      "excerpt": "WordPress powers over 40% of the internet. Here’s how to build your professional website fast.",
+      "content": "<h1>How to Build a WordPress Website in 2025</h1><p>If you're starting an online business, WordPress is still the best platform...</p><h2>Step One: Hosting & Domain</h2><p>Purchase your hosting and domain name...</p><h2>Final Thoughts</h2><p>With the right tools, building a website is faster than ever.</p>",
+      "author": "NextLeap Editorial",
+      "date": "2025-01-25",
+      "read_time": "6 min"
+    },
+
+    {
+      "id": 3,
+      "title": "7 Ways to Boost Your Productivity in Under 30 Minutes",
+      "slug": "boost-productivity-30-min",
+      "category": "Productivity",
+      "tags": ["Mindset", "Productivity", "Lifestyle"],
+      "featured_image": "images/posts/productivity-boost.jpg",
+      "excerpt": "Productivity is not about working harder — it's about working smarter.",
+      "content": "<h1>7 Ways to Boost Productivity</h1><p>You don't need hours to boost productivity — small changes matter...</p><h2>1. Plan Tomorrow Tonight</h2><p>Reduce morning decision fatigue...</p><h2>Final Tip</h2><p>Track your progress weekly.</p>",
+      "author": "NextLeap Editorial",
+      "date": "2025-02-01",
+      "read_time": "5 min"
+    },
+
+    {
+      "id": 4,
+      "title": "How to Start a Profitable Online Business With Low Capital",
+      "slug": "start-online-business-low-capital",
+      "category": "Business",
+      "tags": ["Entrepreneurship", "Passive Income", "Marketing"],
+      "featured_image": "images/posts/online-business.jpg",
+      "excerpt": "Starting a business does not require millions. Here’s how to start smart.",
+      "content": "<h1>Start a Profitable Online Business</h1><p>We live in a digital era where skills and creativity can become income...</p><h2>Step 1: Identify Your Niche</h2><p>Pick a problem people are willing to pay to solve...</p><h2>Closing Thoughts</h2><p>Start small, grow consistently.</p>",
+      "author": "NextLeap Editorial",
+      "date": "2025-02-10",
+      "read_time": "7 min"
+    },
+
+    {
+      "id": 5,
+      "title": "Email Marketing Automation for Beginners",
+      "slug": "email-automation-beginners",
+      "category": "Marketing",
+      "tags": ["Digital Marketing", "Automation", "Passive Income"],
+      "featured_image": "images/posts/email-marketing.jpg",
+      "excerpt": "Automated email sequences can turn traffic into long-term income — even while you sleep.",
+      "content": "<h1>Email Marketing Automation</h1><p>Automation saves time and builds long-term trust...</p><h2>Why It Matters</h2><p>Cold traffic rarely buys immediately — nurturing is key...</p><h2>Final Thoughts</h2><p>Start with one simple funnel and refine.</p>",
+      "author": "NextLeap Editorial",
+      "date": "2025-02-15",
+      "read_time": "4 min"
+    }
+  ]
+    }
