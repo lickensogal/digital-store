@@ -1,1 +1,157 @@
-
+{
+  "categories": [
+    {
+      "name": "Personal Development",
+      "subcategories": [
+        {
+          "name": "Productivity",
+          "products": [
+            {
+              "id": 1,
+              "name": "Grow Your Income in 3 Days",
+              "price": 500,
+              "gumroad_link": "https://gumroad.com/l/income3days",
+              "image_url": "images/products/income3days.jpg",
+              "short_desc": "Quick guide to boosting your income fast.",
+              "long_desc": "Full guide with actionable tips to increase your income in just 3 days. Includes practical exercises, real-life examples, and step-by-step instructions to implement immediately."
+            },
+            {
+              "id": 2,
+              "name": "Morning Routine Mastery",
+              "price": 300,
+              "gumroad_link": "https://gumroad.com/l/morningroutine",
+              "image_url": "images/products/morning-routine.jpg",
+              "short_desc": "Start your day with energy and focus.",
+              "long_desc": "Complete guide to building a powerful morning routine that boosts productivity, mindset, and energy levels. Includes checklists and actionable steps."
+            }
+          ]
+        },
+        {
+          "name": "Mindset",
+          "products": [
+            {
+              "id": 3,
+              "name": "Winning Mindset Guide",
+              "price": 700,
+              "gumroad_link": "https://gumroad.com/l/winningmindset",
+              "image_url": "images/products/winning-mindset.jpg",
+              "short_desc": "Develop a mindset that drives success.",
+              "long_desc": "Detailed strategies for cultivating a growth-oriented, resilient mindset that helps you achieve your personal and professional goals faster."
+            },
+            {
+              "id": 4,
+              "name": "Overcoming Limiting Beliefs",
+              "price": 600,
+              "gumroad_link": "https://gumroad.com/l/limitingbeliefs",
+              "image_url": "images/products/limiting-beliefs.jpg",
+              "short_desc": "Break free from mental barriers holding you back.",
+              "long_desc": "Step-by-step guide to identifying and overcoming limiting beliefs that prevent success. Includes exercises, examples, and mindset hacks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "subcategories": [
+        {
+          "name": "AI Tools",
+          "products": [
+            {
+              "id": 5,
+              "name": "Top 10 AI Tools for Entrepreneurs",
+              "price": 800,
+              "gumroad_link": "https://gumroad.com/l/ai-tools",
+              "image_url": "images/products/ai-tools.jpg",
+              "short_desc": "Streamline your business with the best AI tools.",
+              "long_desc": "Comprehensive guide listing the top AI tools for automation, marketing, productivity, and analytics, including tutorials and tips on how to integrate them into your workflow."
+            },
+            {
+              "id": 6,
+              "name": "AI Prompt Engineering Guide",
+              "price": 900,
+              "gumroad_link": "https://gumroad.com/l/ai-prompt",
+              "image_url": "images/products/ai-prompt.jpg",
+              "short_desc": "Master AI prompts to get the best results.",
+              "long_desc": "Detailed instructions and examples for crafting effective AI prompts that maximize outputs from tools like ChatGPT, MidJourney, and other AI applications."
+            }
+          ]
+        },
+        {
+          "name": "Web Development",
+          "products": [
+            {
+              "id": 7,
+              "name": "Complete WordPress Setup Guide",
+              "price": 1000,
+              "gumroad_link": "https://gumroad.com/l/wp-setup",
+              "image_url": "images/products/wp-setup.jpg",
+              "short_desc": "Build a professional WordPress website from scratch.",
+              "long_desc": "Step-by-step guide to setting up WordPress, installing themes and plugins, configuring WooCommerce, and deploying a fully functional online store."
+            },
+            {
+              "id": 8,
+              "name": "Modern HTML & CSS Techniques",
+              "price": 850,
+              "gumroad_link": "https://gumroad.com/l/html-css",
+              "image_url": "images/products/html-css.jpg",
+              "short_desc": "Learn modern web design best practices.",
+              "long_desc": "Learn advanced HTML5 and CSS3 techniques to create responsive, modern, and professional websites, including Flexbox, Grid, and animation effects."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Business & Marketing",
+      "subcategories": [
+        {
+          "name": "Online Business",
+          "products": [
+            {
+              "id": 9,
+              "name": "Start Your Online Store",
+              "price": 1200,
+              "gumroad_link": "https://gumroad.com/l/online-store",
+              "image_url": "images/products/online-store.jpg",
+              "short_desc": "Step-by-step to launch your digital store.",
+              "long_desc": "Complete guide for creating an online store, setting up payments, adding products, and marketing for maximum profit with minimal cost."
+            },
+            {
+              "id": 10,
+              "name": "Affiliate Marketing Guide",
+              "price": 750,
+              "gumroad_link": "https://gumroad.com/l/affiliate",
+              "image_url": "images/products/affiliate.jpg",
+              "short_desc": "Earn passive income through affiliate marketing.",
+              "long_desc": "Detailed guide on affiliate marketing, including best platforms, strategies to increase conversions, and real-life examples to maximize earnings."
+            }
+          ]
+        },
+        {
+          "name": "Digital Marketing",
+          "products": [
+            {
+              "id": 11,
+              "name": "Social Media Marketing Mastery",
+              "price": 900,
+              "gumroad_link": "https://gumroad.com/l/smm",
+              "image_url": "images/products/smm.jpg",
+              "short_desc": "Grow your brand on social media effectively.",
+              "long_desc": "Step-by-step guide on creating social media strategies, content planning, engagement, and paid advertising to boost online presence."
+            },
+            {
+              "id": 12,
+              "name": "Email Marketing Automation",
+              "price": 850,
+              "gumroad_link": "https://gumroad.com/l/email-marketing",
+              "image_url": "images/products/email-marketing.jpg",
+              "short_desc": "Automate your email campaigns for more sales.",
+              "long_desc": "Learn to create automated email sequences, manage subscribers, and increase conversions with actionable examples and templates."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+            }
